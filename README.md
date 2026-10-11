@@ -1,5 +1,18 @@
 # 영어 수행평가 워크시트 생성기
 
+**▶ Live site / 바로 열기:** https://persian32.github.io/performance-test-worksheet/ (in Korean)
+
+**English summary**
+
+- **What it does:** Makes a student worksheet and a scoring rubric for an English writing or speaking assessment as a Word (.docx) file. The teacher fills in the unit, required expressions and grammar, and topic.
+- **Design rule:** The required expressions and grammar the teacher enters appear again, word for word, in the instructions and in the rubric, so the task and the scoring always match.
+- **Privacy:** Runs entirely in the browser. Nothing is sent to a server.
+- **My role:** I found the problem in my own work and decided what the tool should and should not do. The code was written with AI coding tools (Claude Code).
+
+---
+
+**한국어 설명**
+
 2022 개정 영어과(영어Ⅱ) **수행평가 학생용 워크시트 + 채점 루브릭**을 브라우저에서 바로 `.docx`로 만드는 무료 도구입니다. 교과서 단원·필수 표현·문법·주제만 채우면 됩니다. **쓰기·말하기** 두 버전, 각 2차시 구조를 지원합니다.
 
 - **무료 / 설치 없음**
